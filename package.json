@@ -1,0 +1,22 @@
+{
+  "name": "semantic-ui-react-advertisement-with-google-ads",
+  "version": "1.0.0",
+  "description": "An example usage of the Advertisement component Semantic UI React with Google Ads",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "react": "16.8.3",
+    "react-adsense": "latest",
+    "react-dom": "16.8.3",
+    "semantic-ui-react": "0.85.0"
+  },
+  "devDependencies": {
+    "@types/react": "16.4.14",
+    "@types/react-dom": "16.0.8",
+    "parcel-bundler": "^1.6.1"
+  },
+  "keywords": []
+}
